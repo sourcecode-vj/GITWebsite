@@ -1,4 +1,4 @@
 
-https://sourcecode-vj.github.io/GITWebsite/web.html
+https://sourcecode-vj.github.io/GITWebsite
 
 
